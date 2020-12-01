@@ -319,6 +319,21 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+.navigation-bar {
+  background-color: whitesmoke;
+}
+
+.navigation-bar ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+  padding-top: 1rem;
+}
+
+.navigation-bar a {
+  text-decoration: none;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
