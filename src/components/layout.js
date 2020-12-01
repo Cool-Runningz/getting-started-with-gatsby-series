@@ -25,10 +25,10 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <nav className="navigation-bar">
 			<ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#blog">Blog</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <Link to="/">Home</Link>
+        <Link to="/about/">About</Link>
+        <Link to="/blog/">Blog </Link>
+        <Link to="/contact/">Contact</Link>
 			</ul>
 		</nav>
       <main>{children}</main>

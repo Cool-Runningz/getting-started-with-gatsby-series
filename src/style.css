@@ -325,12 +325,12 @@ a:focus {
 
 .navigation-bar ul {
   display: flex;
-  list-style-type: none;
   justify-content: space-around;
-  padding-top: 1rem;
+  padding: 1rem;
 }
 
 .navigation-bar a {
+  list-style-type: none;
   text-decoration: none;
 }
 
