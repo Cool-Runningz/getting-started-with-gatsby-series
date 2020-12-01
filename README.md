@@ -1,3 +1,7 @@
+# getting-started-with-gatsby-series
+
+- Sample project for my **Getting Started with Gatsby** [series](https://hashnode.com/series/getting-started-with-gatsby-ckhio08gl01jf1cs1faisdtl2) ✍️
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
